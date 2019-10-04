@@ -12,7 +12,7 @@
  		<td>Users Id</td>
  	</tr>
 
- 	@foreach($artikel as $item)
+ 	@foreach($Artikel as $item)
 
  	<tr>
  		<td> {!! $item->id !!}</td>
